@@ -1,4 +1,18 @@
-# Hi there, I am Yogesh Rajgure 👋 
+## Hey 👋 , I'm Yogesh
+<a href="https://www.linkedin.com/in/yogeshrajgure/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/RajgureYogesh">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:yogeshrajgure.vraj@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC8k9bd6PuOWrnLeBWN844YQ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br />
 
 ### 🚀 About Me
 I'm a Data Science Enthusiast
@@ -9,10 +23,6 @@ NLP\
 Python, Java\
 SQL, MongoDB\
 HTML, CSS, JS ...
-
-### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshrajgure/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajgureYogesh)
 
 
 <!--
