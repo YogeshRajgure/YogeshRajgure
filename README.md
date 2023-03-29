@@ -6,7 +6,7 @@
 * Python
 * Machine Learning
 * Computer Vision
-* Natural Language Processing
+* Flutter Development
  
 
 
